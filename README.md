@@ -3,7 +3,8 @@
 
 I'm Lucas from Brazil, and I do content on Front-End Developer. I really enjoy learning languages and frameworks like ReactJs and ReactNative.
 
-Skills:  REACT / JS / HTML / CSS
+##Skills and Experience
+REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
