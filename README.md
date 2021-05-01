@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Lucas
 #### Front-End Engineer
-![Front-End Engineer](https://i.pinimg.com/originals/1a/ba/73/1aba73d7d0cf7299158082fab3d8bfa3.jpg)
 
 I'm Lucas from Brazil, and I do content on Front-End Developer. I really enjoy learning languages and frameworks like ReactJs and ReactNative.
 
